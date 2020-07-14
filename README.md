@@ -1,1 +1,3 @@
 NodeJS Backend for the [portfolio](https://github.com/szareian/portfolio) project.
+
+This project integrates the __Twitter API__ in the portfolio project to get the latest tweets from the NBA, players, reporters, and ...
